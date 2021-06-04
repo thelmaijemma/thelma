@@ -138,9 +138,12 @@ position: fixed;
     margin-bottom: 40%;
 }
 .contact{
-    margin-top: 5%;
+    margin-top: 3%;
 }
 .contact a{
+    margin-top: 4rem;
+}
+.contact h3{
     margin-top: 4rem;
 }
 
