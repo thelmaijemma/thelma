@@ -135,7 +135,13 @@ position: fixed;
     width: 70%;
 }
 .nft{
-    margin-bottom: 30%;
+    margin-bottom: 40%;
+}
+.contact{
+    margin-top: 5%;
+}
+.contact a{
+    margin-top: 2rem;
 }
 
 }
