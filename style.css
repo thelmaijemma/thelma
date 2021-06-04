@@ -135,7 +135,7 @@ position: fixed;
     width: 70%;
 }
 .nft{
-    margin-bottom: 20%;
+    margin-bottom: 30%;
 }
 
 }
@@ -152,6 +152,9 @@ position: fixed;
     }
     .nft h4{
         width: 50%;
+    }
+    .nft{
+        margin-bottom: 18%;
     }
 
     }
@@ -246,3 +249,4 @@ h4 {
     border: 1px solid white;
     padding: 1rem;
 }
+ 
