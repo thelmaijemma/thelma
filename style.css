@@ -29,7 +29,12 @@ body {
     margin-top: 3%;
 }
 
+@media (min-width: 730px) and (max-width: 780px) {
+    .marginmore{
+        margin-top: 3rem;
+    }
 
+}
 
 .navbar {
     display: flex;
@@ -162,7 +167,7 @@ position: fixed;
         height: 800px;
     }
     .card{
-        width: 40%;
+        width: 45%;
         height: 40%;
     }
     h3{
@@ -175,6 +180,13 @@ position: fixed;
         margin-bottom: 18%;
     }
 
+    }
+
+    @media (min-width: 700px) and (max-width: 800px){
+        .card{
+            width: 75%;
+            height: 40%;
+        }
     }
 
 .welcome{
