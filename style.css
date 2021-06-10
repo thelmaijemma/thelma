@@ -181,12 +181,31 @@ position: fixed;
 
     }
 
-    @media (min-width: 700px) and (max-width: 800px){
+
+    @media (min-width: 800px){
         .card{
-            width: 75%;
-            height: 40%;
+            height: 450px;
         }
     }
+
+    @media (min-width: 735px) {
+        .welcome, .nft{
+            height: 800px;
+        }
+        .card{
+            width: 45%;
+        }
+        h3{
+            font-size: 50px;
+        }
+        .nft h4{
+            width: 50%;
+        }
+        .nft{
+            margin-bottom: 18%;
+        }
+    
+        }
 
 .welcome{
     width: 100%;
