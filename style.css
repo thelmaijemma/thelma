@@ -184,7 +184,7 @@ position: fixed;
 
     @media (min-width: 800px){
         .card{
-            height: 450px;
+            height: 700px;
         }
     }
 
@@ -193,7 +193,7 @@ position: fixed;
             height: 800px;
         }
         .card{
-            width: 45%;
+            width: 35%;
         }
         h3{
             font-size: 50px;
