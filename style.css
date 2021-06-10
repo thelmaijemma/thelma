@@ -188,7 +188,7 @@ position: fixed;
         }
     }
 
-    @media (min-width: 735px) {
+    @media (min-width: 735px) and (max-width: 1200){
         .welcome, .nft{
             height: 800px;
         }
@@ -203,10 +203,29 @@ position: fixed;
             font-size: xx-large;
         }
         .nft{
-            margin-bottom: 5%;
+            margin-bottom: 15%;
         }
     
         }
+        @media (min-width: 1200px) {
+            .welcome, .nft{
+                height: 800px;
+            }
+            .card{
+                width: 35%;
+            }
+            h3{
+                font-size: 50px;
+            }
+            .nft h4{
+                width: 50%;
+                font-size: xx-large;
+            }
+            .nft{
+                margin-bottom: 5%;
+            }
+        
+            }
 
 .welcome{
     width: 100%;
