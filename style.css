@@ -184,7 +184,7 @@ position: fixed;
 
     @media (min-width: 800px){
         .card{
-            height: 700px;
+            height: 750px;
         }
     }
 
@@ -262,7 +262,7 @@ position: fixed;
 .card-content a {
     text-decoration: none;
     background-color: rgba(209, 109, 134, 0.184);
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
     margin-top: 2rem;
     width: 30%;
     border: 1px solid white;
